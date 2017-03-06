@@ -1,2 +1,4 @@
 # Deskripsi-Aplikasi
 Action Progress 1
+Aplikasi "Guess The Output"
+aplikasi mobile berbasiskan android ini dirancang untuk dapat menjadi aplikasi yang interaktif dengan tujuan sebagai wadah pelatihan dalam belajar pemograman dasar khusunya dalam memahami penyelesaian algoritma. Bahasa pemograman yang digunakan dalam aplikasi ini sebagai awalan ialah bahasa pemograman java. Selain itu aplikasi ini juga dapat digunakan oleh segala jenis usia, terutama anak-anak yang seharusnya sudah mulai diajarkan pemograman sejak dini. Aplikasi ini juga terdapat fitur-fitur yang dapat membantu untuk memahami pemograman, salah satunya yaitu materi-materi dan latihan-latihan, sehingga masyarakat yang belum memahami pemograman khususnya bahasa pemograman java bisa menggunakan aplikasi ini sebagai media pembelajarannya.
